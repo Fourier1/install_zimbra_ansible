@@ -1,0 +1,18 @@
+---
+# les packages a installer forcement avant l'installation de zimbra
+
+zimbra_required_install_packages:
+  - nc
+  - sudo
+  - libidn
+  - gmp
+  - libaio
+  - libstdc++
+  - unzip
+  - perl-5.10.1
+  - sysstat
+  - sqlite
+  - libreoffice
+  - libreoffice-headless
+
+...
